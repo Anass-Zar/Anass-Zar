@@ -1,5 +1,4 @@
-![Alt Text](./gif/Coding....gif)
-
+<!-- ![Alt Text](./gif/Coding....gif) -->
 
 ## Introduction
 
