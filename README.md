@@ -2,11 +2,22 @@
 
 ## Introduction
 
+<!-- Conditional rendering based on dark mode -->
+{% if dark_mode %}
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+My+name+is+Anass+ZARIOH+%F0%9F%91%8B;I'm+a+Full-stack+developer+%F0%9F%92%BB" />
+  </a>
+</p>
+{% else %}
+<!-- Default to light mode -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi!+My+name+is+Anass+Zarioh+%F0%9F%91%8B;I%27m+a+Full+Stack+Developer+%F0%9F%92%BB" /></a>
+  <a href="https://readme-typing-svg.demolab.com/demo/?color=000000&lines=Hi%2C+My+name+is+Anass+ZARIOH+%F0%9F%91%8B;I%27m+a+Full-stack+developer+%F0%9F%92%BB">
+    <img src="https://your-light-mode-image-url.jpg" />
+  </a>
 </p>
-</p>
+{% endif %}
+
 I am a Full Stack Developer with a passion for creating innovative and user-friendly web applications. My skills include proficiency in various programming languages such as JavaScript, and HTML/CSS, as well as experience with popular frameworks such as React and Node.js. I am always eager to learn new technologies and stay up-to-date with industry trends.
 
 
