@@ -2,19 +2,12 @@
 
 ## Introduction
 
-{% if dark_mode %}
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+My+name+is+Anass+ZARIOH+%F0%9F%91%8B;I'm+a+Full-stack+developer+%F0%9F%92%BB">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi%2C+My+name+is+Anass+ZARIOH+%F0%9F%91%8B;I'm+a+Full-stack+developer+%F0%9F%92%BB">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi%2C+My+name+is+Anass+ZARIOH+%F0%9F%91%8B;I'm+a+Full-stack+developer+%F0%9F%92%BB">
+</picture>
 
-<p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+My+name+is+Anass+ZARIOH+%F0%9F%91%8B;I'm+a+Full-stack+developer+%F0%9F%92%BB" />
-</p>
-
-{% else %}
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi%2C+My+name+is+Anass+ZARIOH+%F0%9F%91%8B;I'm+a+Full-stack+developer+%F0%9F%92%BB" />
-</p>
-
-{% endif %}
 
 I am a Full Stack Developer with a passion for creating innovative and user-friendly web applications. My skills include proficiency in various programming languages such as JavaScript, and HTML/CSS, as well as experience with popular frameworks such as React and Node.js. I am always eager to learn new technologies and stay up-to-date with industry trends.
 
